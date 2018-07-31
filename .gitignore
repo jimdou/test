@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# Gatrix Encryption - Do Not Edit
+*
+!*/
+!*.gitignore
+!*.encrypted
+# End of Gatrix Encryption
